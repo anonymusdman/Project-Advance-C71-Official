@@ -1,0 +1,211 @@
+.navbar-inverse {
+    position: sticky;
+    z-index: 9999;
+    top:0;
+    
+}
+.myStyle {
+    font-weight: bold;
+    color: white;;
+}
+.announcement {
+    font-size: 22px;
+}
+section {
+    min-height: 500px;
+}
+#itneedstobebig {
+    width: 200%;
+    height: 200%;
+}
+#lodsastylin {
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+body {
+    background-color: darkcyan;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-brand {
+   color: white;
+}
+.nav navbar-nav {
+    color: black;
+}
+.rounded {
+    border-radius: 25px;
+    border-width: 3px;
+}
+.inline-block {
+    align-content: center;
+    width: 400px;
+    text-align: center;
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+    border-radius: 30px;
+    border-width: 5px;
+    border-style: solid;
+    background-color: greenyellow;
+}
+.inline-block img {
+    display: inline-block;
+    vertical-align: center;
+}
+.outer .fix {
+    width: 100%;
+    height: 0;
+    display: inline-block;
+}
+.hadtoembed {
+    text-align: center
+}
+#navbar {
+  overflow: inherit;
+  background-color: #333;
+  position: fixed;
+  color: white;
+  top: 0px;
+  width: 1700px;
+}
+.textnavbar {
+    color: white;
+}
+.Itzmyownthing {
+    width: 200px;
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: 400;
+}
+.imagelol1 {
+}
+#twotimesstylin {
+    margin-left: 50px;
+    margin-top: 50px
+}
+#imgidlol{
+    width: 20%;
+    height: 20%;
+    margin-left: 20px;
+    border-radius: 30px;
+    border-width: 5px;
+    border-style: solid;
+    background-color: greenyellow;
+}
+#onetimestyle {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#twotimestyle {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#threetimestyle {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+iframe {
+    align-content: center;
+    width: 600px;
+    text-align: center;
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    border-radius: 30px;
+    border-width: 5px;
+    border-style: solid;
+    background-color: greenyellow;
+}
+.twoiframe {
+}
+#whatsnewtitle {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: cursive;
+    margin-left: 775px;
+}
+.twospansstyle {
+    margin-left: 70px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#koolkbd {
+    font-size: 25px;
+}
+h5 {
+    color: black;
+}
+h9 {
+    color: black;
+    font-size: 20px;
+}
+.Acheivments {
+    border-radius: 30px;
+    border-width: 5px;
+    border-style: solid;
+    background-color: greenyellow;
+}
+#wrap {
+    margin-top: 60px;
+}
+#WhatsNew {
+    border-radius: 30px;
+    border-width: 5px;
+    border-style: solid;
+    background-color: greenyellow;
+}
+.footer {
+    margin-left: 300px;
+    height: 30px;
+    line-height: 3px;
+    background-color: white;
+}
+#footer {
+    text-align: center;
+}
+.movie_text {
+    border-radius: 30px;
+    border-width: 5px;
+    border-style: solid;
+    background-color: white;
+}
+.movie_text span {
+    color: #ff7700;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+#achievementID{
+    padding-bottom: 10px;
+}
+#VERY_BIG {
+    width: 25%;
+    height: 25%;
+}
+#WhatsNew {
+    text-align: center;
+}
+#AlumniSection {
+    text-align: center;
+}
+.modal-title {
+    
+}
+.twodivs {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
